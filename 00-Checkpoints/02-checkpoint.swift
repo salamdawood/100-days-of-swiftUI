@@ -1,4 +1,9 @@
-import Cocoa
+//
+//  02-checkpoint.swift
+//  
+//
+//  Created by Salam Dawood on 2/24/26.
+//
 
 let sentence = ["hi", "there", "my", "name", "is", "salam", "and", "i", "am", "learning", "to", "code", "in", "swift", "in", "my", "free", "time"];
 
