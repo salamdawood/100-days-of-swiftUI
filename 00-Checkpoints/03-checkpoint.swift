@@ -1,4 +1,9 @@
-import Cocoa
+//
+//  03-checkpoint.swift
+//
+//
+//  Created by Salam Dawood on 2/24/26.
+//
 
 for i in 1...100 {
     if i.isMultiple(of: 3) && i.isMultiple(of: 5) {
